@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.roadrunner.mixin",
+  "refmap": "mixins.roadrunner.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinMinecraftServer",
+    "MixinTileEntityHopper"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

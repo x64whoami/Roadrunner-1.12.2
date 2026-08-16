@@ -1,0 +1,16 @@
+[
+{
+  "modid": "roadrunner",
+  "name": "RoadRunner",
+  "description": "Performance optimization mod for Minecraft Forge 1.12.2 (inspired by Lithium / RoadRunner). Currently a skeleton with working Mixin pipeline and placeholders for hopper, AI, collision, math and future GPU work.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Port"],
+  "credits": "Original Lithium by jellysquid3, RoadRunner by MaxNeedsSnacks, GPU-Load by mutcho-258",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
